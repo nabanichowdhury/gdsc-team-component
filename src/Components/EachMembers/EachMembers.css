@@ -1,0 +1,9 @@
+.name {
+  color: rgb(112, 112, 112);
+}
+.des {
+  color: lightgrey;
+}
+.des:hover {
+  display: none;
+}
